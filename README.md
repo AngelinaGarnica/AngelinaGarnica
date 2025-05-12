@@ -34,16 +34,18 @@ This project extends the previous one by incorporating a reasoning module and en
 
 ## 📂 Portfolio Projects
 
-Here are some projects I've worked on. More coming soon!
+Projects I've worked on — uploads coming soon!
 
 - 🏄🏽‍♀️ **Balancing the Imbalance: Strategies for Tackling Class Imbalance in Machine Learning**  
-Explores practical techniques to handle class imbalance in machine learning models, improving performance on minority classes. 
-**Tools**: Python, scikit-learn, pandas, XGBoost  
-[View Project](https://github.com/your-username/project-name)
+Explores practical techniques to handle class imbalance in machine learning models, improving performance on minority classes.
+Video available in Spanish: https://www.youtube.com/watch?v=kmNKRRX3GHE&t=15s
+**Tools**: Python, scikit-learn, imbalanced-learn, pandas, XGBoost
 
 - 📈 **Time Series Forcasting**
-Built a machine learning model to ......
-**Tools**: Python, scikit-learn, pandas, XGBoost  
-[View Project](https://github.com/your-username/project-name)
+Developed and evaluated models to forecast future values based on historical time series data.
+**Tools**: Python, scikit-learn, pandas, XGBoost, prophet, dart
 
+- 📉 **Time Series Clustering**
+Performed time series clustering based on metric distances and temporal patterns.
+**Tools**: Python, tslearn, k-means, DTW
 ---
