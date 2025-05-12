@@ -26,9 +26,9 @@ This notebook demonstrates how to build a LangChain agent using Gemini to intera
 [View Project](https://github.com/AngelinaGarnica/Alora_Agent)
 
 - 🤖🤖 **Alora 2.0 Reasoning AI Agent**  
-Built a machine learning model to predict optimal product quantities for clients based on their purchase history.  
-**Tools**: Python, scikit-learn, pandas, XGBoost  
-[View Project](https://github.com/your-username/project-name)
+This project extends the previous one by incorporating a reasoning module and enhancing chart visualization through LLM integration.
+**Tools**: Python, LangChain, LangGraph, Gemini  
+[View Project](https://github.com/AngelinaGarnica/Alora)
 
 ---
 
