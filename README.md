@@ -37,15 +37,15 @@ This project extends the previous one by incorporating a reasoning module and en
 Projects I've worked on — uploads coming soon!
 
 - 🏄🏽‍♀️ **Balancing the Imbalance: Strategies for Tackling Class Imbalance in Machine Learning**  
-Explores practical techniques to handle class imbalance in machine learning models, improving performance on minority classes.
-Video available in Spanish: https://www.youtube.com/watch?v=kmNKRRX3GHE&t=15s
-**Tools**: Python, scikit-learn, imbalanced-learn, pandas, XGBoost
+  Explores practical techniques to handle class imbalance in machine learning models, improving performance on minority classes. <br>
+  Video available in Spanish: https://www.youtube.com/watch?v=kmNKRRX3GHE&t=15s <br>
+  **Tools**: Python, scikit-learn, imbalanced-learn, pandas, XGBoost
 
-- 📈 **Time Series Forcasting**
-Developed and evaluated models to forecast future values based on historical time series data.
-**Tools**: Python, scikit-learn, pandas, XGBoost, prophet, dart
+- 📈 **Time Series Forcasting** <br>
+  Developed and evaluated models to forecast future values based on historical time series data. <br>
+  **Tools**: Python, scikit-learn, pandas, XGBoost, prophet, dart
 
-- 📉 **Time Series Clustering**
-Performed time series clustering based on metric distances and temporal patterns.
-**Tools**: Python, tslearn, k-means, DTW
+- 📉 **Time Series Clustering** <br>
+  Performed time series clustering based on metric distances and temporal patterns. <br>
+  **Tools**: Python, tslearn, k-means, DTW
 ---
