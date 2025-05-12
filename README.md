@@ -21,9 +21,9 @@ Economist turned Data Scientist with a strong background in statistics, machine 
 🧪 Experimenting with LangChain + LLM agents:
 
 - 🤖 **Alora SQL Agent**  
-Built a machine learning model to predict optimal product quantities for clients based on their purchase history.  
-**Tools**: Python, scikit-learn, pandas, XGBoost  
-[View Project](https://github.com/AngelinaGarnica/project-name)
+This notebook demonstrates how to build a LangChain agent using Gemini to interact with a SQL database, generate queries and optionally suggest plotting results.  
+**Tools**: Python, LangChain, Gemini  
+[View Project](https://github.com/AngelinaGarnica/Alora_Agent)
 
 - 🤖🤖 **Alora 2.0 Reasoning AI Agent**  
 Built a machine learning model to predict optimal product quantities for clients based on their purchase history.  
